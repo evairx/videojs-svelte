@@ -2,6 +2,10 @@
 
 this is a demonstration of how to implement the VideoJS library in Svetle.
 
+# Demo
+
+[View Demo](https://videojs-svelte.vercel.app/)
+
 # Getting Started
 
 First you must install the following dependencies
