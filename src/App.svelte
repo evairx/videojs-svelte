@@ -37,7 +37,7 @@
 
 <main>
   <div class="container">
-    <a href=""> <i class="fa-solid fa-chevron-left"></i> back to repository</a> <h1>VideoJS with Svelte</h1>
+    <a href="https://github.com/evairx/videojs-svelte"> <i class="fa-solid fa-chevron-left"></i> back to repository</a> <h1>VideoJS with Svelte</h1>
   </div>
 
   <video id="player" class="video-js vjs-default-skin background"/>
